@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "behat/behat": "2.4.*@stable"
+    },
+    "config": {
+        "bin-dir": "bin/"
+    },
+    "require": {
+        "phpmailer/phpmailer": "^5.2",
+        "phpunit/phpunit": "^6.1"
+    }
+}
