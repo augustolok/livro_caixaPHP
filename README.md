@@ -61,6 +61,6 @@ Senha: 123456
 * MySQL
 
 ### Créditos
-* augusto Cezar Perez augustoperez696@live.com
+* Augusto Cezar Perez augustoperez696@live.com
 * Alexandre LLemes - alexandre.llemes@gmail.com (postei no meu(Augusto) git porque esse cara não deixa fazer up de correção no sistema falho dele.)
 
