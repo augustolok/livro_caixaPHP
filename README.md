@@ -62,5 +62,5 @@ Senha: 123456
 
 ### Créditos
 * augusto Cezar Perez augustoperez696@live.com
-* Alexandre LLemes - alexandre.llemes@gmail.com (postei no meu git porque esse cara nao deixa fazer up de correção no sistema falho dele.)
+* Alexandre LLemes - alexandre.llemes@gmail.com (postei no meu(Augusto) git porque esse cara não deixa fazer up de correção no sistema falho dele.)
 
